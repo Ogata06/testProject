@@ -67,7 +67,7 @@ void CTitle::Update()
 	if( CKeyInput::IsPress('H') == true ){
 		rot += 0.01f;
 	}
-	if( CKeyInput::IsPress('N') == true ){
+	if( CKeyInput::IsPress('M') == true ){
 		rot_y += 0.01f;
 	}
 
@@ -88,10 +88,6 @@ void CTitle::Update()
 	bool isHit = coll::IsRayToSphere( &ray, &sphere, &p, &p2 );
 	s1.SetPosition( p );
 	s2.SetPosition( p2 );
-	CCollisionRender::PushRay( &ray );
-	CCollisionRender::PushSphere( &s1 );
-	CCollisionRender::PushSphere( &s2 );
-	CCollisionRender::PushSphere( &sphere );
 
 	if( CKeyInput::IsMomentPress('G') == true ){
 		SetSceneChange();

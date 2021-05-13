@@ -1,69 +1,70 @@
-[2021/5/13 9:56] >> App launch
 
-[9:56:47] >> ƒEƒBƒ“ƒhƒEì¬ : ¬Œ÷
-[9:56:48] >> DIrectX9ƒfƒoƒCƒXì¬ : ¬Œ÷
-[9:56:48] >> DirectX11ƒfƒoƒCƒXì¬ : ¬Œ÷
-[9:56:48] >> ‰æ‘œ•`‰æƒNƒ‰ƒXì¬ : ¬Œ÷
-[9:56:48] >> ------ ƒGƒtƒFƒNƒg“Ç‚Ýž‚ÝŠJŽn -------
-[9:56:48] >> Data\Effect\barrier_effect\barrier_effect.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:48] >> Data\Effect\barrier_effect\barrier_effect_9.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:48] >> Data\Effect\b_attackeffkt\b_attackeffkt.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:48] >> Data\Effect\c_dead_effect\c_deadEffect.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:48] >> Data\Effect\Explosion\Explosion.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:48] >> Data\Effect\hiteffekt\hiteffekt.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\item effect\item_effect_ability.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\item effect\item_effect_attack.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\item effect\item_effect_cure.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\item effect\item_effect_speed.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\itemGet\item_get_ability.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\itemGet\item_get_attack.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\itemGet\item_get_cure.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\itemGet\item_get_speed.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\key\key.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\sand_smoke effect\sandSmoke.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\slash_base\slash_effect.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:49] >> Data\Effect\slash_effect\slash_effect_1.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:50] >> Data\Effect\slash_effect\slash_effect_2.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:50] >> Data\Effect\slash_effect\slash_effect_3.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:50] >> Data\Effect\spawn effect\spawnEffect.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:50] >> Data\Effect\test\uvtest.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:50] >> Data\Effect\ultemate attack effeck\ultemateAttackEffeck.efk “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:50] >> ------ ƒGƒtƒFƒNƒg“Ç‚Ýž‚ÝI—¹ -------
-[9:56:51] >> ------- ƒXƒŒƒbƒhƒ[ƒhŠJŽn ------
-[9:56:51] >> ‰æ‘œ•`‰æƒNƒ‰ƒXì¬ : ¬Œ÷
-[9:56:51] >> ‰æ‘œ•`‰æƒNƒ‰ƒXì¬ : ¬Œ÷
-[9:56:51] >> Data\Sprite\Fade.png “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:51] >> Data\Sprite\Mask.png “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:51] >> ------ ‰æ‘œ“Ç‚Ýž‚ÝŠJŽn -------
-[9:56:51] >> Data\Sprite\debugBack.png “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:51] >> Data\Sprite\Fade.png “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:52] >> Data\Sprite\loadBase.png “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:52] >> Data\Sprite\loadBase.png “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:52] >> Data\Sprite\loadUfo.png “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:52] >> Data\Sprite\Mask.png “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:52] >> Data\Sprite\pokemon.png “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:52] >> Data\Sprite\WatercolorPainting\noise.jpg “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:52] >> Data\Sprite\WatercolorPainting\norm.jpg “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:52] >> ------ ‰æ‘œ“Ç‚Ýž‚ÝI—¹ -------
-[9:56:52] >> ------ ƒƒbƒVƒ…“Ç‚Ýž‚ÝŠJŽn -------
-[9:56:53] >> Data\Mesh\Alien\a\a_s.X “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:54] >> Data\Mesh\Alien\b\b_s.X “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:55] >> Data\Mesh\Alien\c\c_s.X‚ÉƒeƒNƒXƒ`ƒƒ‚ª‚È‚¢‚½‚ß•Ê‚ÌƒeƒNƒXƒ`ƒƒ‚ð·‚µž‚Ý‚Ü‚·B
-[9:56:55] >> Data\Mesh\Alien\c\c_s.X “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:55] >> Data\Mesh\Alien\d\ultemate_s.X “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:55] >> Data\Mesh\Box.x‚ÉƒeƒNƒXƒ`ƒƒ‚ª‚È‚¢‚½‚ß•Ê‚ÌƒeƒNƒXƒ`ƒƒ‚ð·‚µž‚Ý‚Ü‚·B
-[9:56:55] >> Data\Mesh\Box.x “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:55] >> Data\Mesh\Capsule.x‚ÉƒeƒNƒXƒ`ƒƒ‚ª‚È‚¢‚½‚ß•Ê‚ÌƒeƒNƒXƒ`ƒƒ‚ð·‚µž‚Ý‚Ü‚·B
-[9:56:56] >> Data\Mesh\Capsule.x “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:56] >> Data\Mesh\moon\moon.X “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:57] >> Data\Mesh\Player\kaito\kaito_s.X “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:57] >> Data\Mesh\space\space.X “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:57] >> Data\Mesh\Sphere.x‚ÉƒeƒNƒXƒ`ƒƒ‚ª‚È‚¢‚½‚ß•Ê‚ÌƒeƒNƒXƒ`ƒƒ‚ð·‚µž‚Ý‚Ü‚·B
-[9:56:57] >> Data\Mesh\Sphere.x “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:57] >> Data\Mesh\Stage\stage.X “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:57] >> Data\Mesh\test\normTest.x “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:58] >> Data\Mesh\ufo\ufo.X “Ç‚Ýž‚Ý : ¬Œ÷
-[9:56:58] >> ------ ƒƒbƒVƒ…“Ç‚Ýž‚ÝI—¹ -------
-[9:56:58] >> ------- ƒXƒŒƒbƒhƒ[ƒhI—¹ ------
+[2021/5/13 10:0] >> App launch
 
-[9:59:17] >> App End
+[10:0:35] >> ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ä½œæˆ : æˆåŠŸ
+[10:0:36] >> DIrectX9ãƒ‡ãƒã‚¤ã‚¹ä½œæˆ : æˆåŠŸ
+[10:0:38] >> DirectX11ãƒ‡ãƒã‚¤ã‚¹ä½œæˆ : æˆåŠŸ
+[10:0:40] >> ç”»åƒæç”»ã‚¯ãƒ©ã‚¹ä½œæˆ : æˆåŠŸ
+[10:0:41] >> ------ ã‚¨ãƒ•ã‚§ã‚¯ãƒˆèª­ã¿è¾¼ã¿é–‹å§‹ -------
+[10:0:42] >> Data\Effect\barrier_effect\barrier_effect.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:42] >> Data\Effect\barrier_effect\barrier_effect_9.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:42] >> Data\Effect\b_attackeffkt\b_attackeffkt.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\c_dead_effect\c_deadEffect.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\Explosion\Explosion.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\hiteffekt\hiteffekt.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\item effect\item_effect_ability.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\item effect\item_effect_attack.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\item effect\item_effect_cure.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\item effect\item_effect_speed.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\itemGet\item_get_ability.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\itemGet\item_get_attack.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\itemGet\item_get_cure.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\itemGet\item_get_speed.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\key\key.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:45] >> Data\Effect\sand_smoke effect\sandSmoke.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:46] >> Data\Effect\slash_base\slash_effect.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:47] >> Data\Effect\slash_effect\slash_effect_1.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:47] >> Data\Effect\slash_effect\slash_effect_2.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:48] >> Data\Effect\slash_effect\slash_effect_3.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:48] >> Data\Effect\spawn effect\spawnEffect.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:48] >> Data\Effect\test\uvtest.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:48] >> Data\Effect\ultemate attack effeck\ultemateAttackEffeck.efk èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:48] >> ------ ã‚¨ãƒ•ã‚§ã‚¯ãƒˆèª­ã¿è¾¼ã¿çµ‚äº† -------
+[10:0:52] >> ------- ã‚¹ãƒ¬ãƒƒãƒ‰ãƒ­ãƒ¼ãƒ‰é–‹å§‹ ------
+[10:0:52] >> ç”»åƒæç”»ã‚¯ãƒ©ã‚¹ä½œæˆ : æˆåŠŸ
+[10:0:52] >> ç”»åƒæç”»ã‚¯ãƒ©ã‚¹ä½œæˆ : æˆåŠŸ
+[10:0:52] >> ------ ç”»åƒèª­ã¿è¾¼ã¿é–‹å§‹ -------
+[10:0:53] >> Data\Sprite\Fade.png èª­ã¿è¾¼ã¿ : æˆåŠŸ
+ï½¬åŠŸ
+[10:0:53] >> Data\Sprite\Fade.png èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:53] >> Data\Sprite\Mask.png èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:53] >> Data\Sprite\loadBase.png èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:53] >> Data\Sprite\loadUfo.png èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:53] >> Data\Sprite\Mask.png èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:53] >> Data\Sprite\pokemon.png èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:54] >> Data\Sprite\loadBase.png èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:54] >> Data\Sprite\WatercolorPainting\noise.jpg èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:54] >> Data\Sprite\WatercolorPainting\norm.jpg èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:0:54] >> ------ ç”»åƒèª­ã¿è¾¼ã¿çµ‚äº† -------
+[10:0:54] >> ------ ãƒ¡ãƒƒã‚·ãƒ¥èª­ã¿è¾¼ã¿é–‹å§‹ -------
+[10:1:5] >> Data\Mesh\Alien\a\a_s.X èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:6] >> Data\Mesh\Alien\b\b_s.X èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:7] >> Data\Mesh\Alien\c\c_s.Xã«ãƒ†ã‚¯ã‚¹ãƒãƒ£ãŒãªã„ãŸã‚åˆ¥ã®ãƒ†ã‚¯ã‚¹ãƒãƒ£ã‚’å·®ã—è¾¼ã¿ã¾ã™ã€‚
+[10:1:7] >> Data\Mesh\Alien\c\c_s.X èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:9] >> Data\Mesh\Alien\d\ultemate_s.X èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:9] >> Data\Mesh\Box.xã«ãƒ†ã‚¯ã‚¹ãƒãƒ£ãŒãªã„ãŸã‚åˆ¥ã®ãƒ†ã‚¯ã‚¹ãƒãƒ£ã‚’å·®ã—è¾¼ã¿ã¾ã™ã€‚
+[10:1:9] >> Data\Mesh\Box.x èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:9] >> Data\Mesh\Capsule.xã«ãƒ†ã‚¯ã‚¹ãƒãƒ£ãŒãªã„ãŸã‚åˆ¥ã®ãƒ†ã‚¯ã‚¹ãƒãƒ£ã‚’å·®ã—è¾¼ã¿ã¾ã™ã€‚
+[10:1:9] >> Data\Mesh\Capsule.x èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:9] >> Data\Mesh\moon\moon.X èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:11] >> Data\Mesh\Player\kaito\kaito_s.X èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:11] >> Data\Mesh\space\space.X èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:11] >> Data\Mesh\Sphere.xã«ãƒ†ã‚¯ã‚¹ãƒãƒ£ãŒãªã„ãŸã‚åˆ¥ã®ãƒ†ã‚¯ã‚¹ãƒãƒ£ã‚’å·®ã—è¾¼ã¿ã¾ã™ã€‚
+[10:1:11] >> Data\Mesh\Sphere.x èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:12] >> Data\Mesh\Stage\stage.X èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:12] >> Data\Mesh\test\normTest.x èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:13] >> Data\Mesh\ufo\ufo.X èª­ã¿è¾¼ã¿ : æˆåŠŸ
+[10:1:13] >> ------ ãƒ¡ãƒƒã‚·ãƒ¥èª­ã¿è¾¼ã¿çµ‚äº† -------
+[10:1:13] >> ------- ã‚¹ãƒ¬ãƒƒãƒ‰ãƒ­ãƒ¼ãƒ‰çµ‚äº† ------
+
+[10:3:33] >> App End

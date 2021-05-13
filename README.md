@@ -164,6 +164,7 @@ void CTestObj::UpdateCollision()
 
 </details>
 
+
 #### Widget
 <code>SourceCode\Object\GameObject\Widget</code>以下の階層にそれぞれ追加したいUIオブジェクトクラスのクラスを作成する  
 その際、<code>CWidget</code>クラスを継承させる  
